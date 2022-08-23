@@ -4,7 +4,8 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ## version
-1.0 this theme can change wallpaper.
+1.0 You can change wallpaper with this skin.
+1.1 Corrected typo in file name. You can change the window color mode with this skin.
 
 
 ## Enjoy my skin!
@@ -20,6 +21,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## 버전
 1.0 배경화면을 바꿀 수 있습니다.
+1.1 파일 이름의 오타를 수정했습니다. 윈도우 색 모드를 바꿀 수 있습니다.
 
 
 ## 스킨 유용하게 사용해주세요!
