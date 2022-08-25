@@ -1,17 +1,17 @@
-#English
+# English
 
-## Precautions
+### Precautions
 This skin follows Creative Commons Attribution-ShareAlike 4.0 International.
 
 For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## download
+### download
 1. Click WallpaperChanger20.rmskin(20 may change depending on version).
 
 2. Click Download.
 
 
-## version
+### version
 1.0 You can change wallpaper with this skin.
 
 1.1 Corrected typo in file name. You can change the window color mode with this skin.
@@ -25,25 +25,25 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 2.1 The readme file has been modified.
 
 
-## Enjoy my skin!
+### Enjoy my skin!
 
 
 ------------------------------------------------------------------------------------
 # 한국어
 
-## 주의사항
+### 주의사항
 이 스킨은 Creative Commons Attribution-ShareAlike 4.0 International을 따릅니다.
 
 더 많은 정보는 [여기서 확인하세요](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
-## 다운로드
+### 다운로드
 1. WallpaperChanger1.2.rmskin(1.2는 버전에 따라 바뀔수도 있습니다.)을 클릭하세요.
 
 2. Download를 클릭하세요.
 
 
-## 버전
+### 버전
 1.0 배경화면을 바꿀 수 있습니다.
 
 1.1 파일 이름의 오타를 수정했습니다. 윈도우 색 모드를 바꿀 수 있습니다.
@@ -57,7 +57,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 2.1 readme 파일을 수정했습니다.
 
 
-## 스킨 유용하게 사용해주세요!
+### 스킨 유용하게 사용해주세요!
 
 ------------------------------------------------------------------------------------
 # screenshot(스크린샷)
@@ -83,6 +83,6 @@ nightscreenshot
 밤 스크린샷
 
 
-These screenshot also have other skins.
+### These screenshot also have other skins.
 
-이 스크린샷들에는 다른 스킨도 적용되어 있습니다.
+### 이 스크린샷들에는 다른 스킨도 적용되어 있습니다.
