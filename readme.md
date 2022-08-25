@@ -60,8 +60,3 @@ Visualizer skin : https://jax-core.github.io/
 This skin follows Creative Commons Attribution-ShareAlike 4.0 International.
 
 For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
-
-<br>
-<br>
-
-## Enjoy my skin!
