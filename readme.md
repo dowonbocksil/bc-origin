@@ -104,4 +104,4 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### <a href="https://www.deviantart.com/apexxx-sensei/art/Momento-698402825" target="_blank">Label</a>
 
-### <a href="https://jax-core.github.io/" target="_blank">Label</a>
+### <a href="https://jax-core.github.io/" target="blank">Label</a>
