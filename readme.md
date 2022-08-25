@@ -87,4 +87,13 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### These screenshots also have other skins.
 
+### Clock skin : https://www.deviantart.com/apexxx-sensei/art/Momento-698402825
+
+### Visualizer skin : https://jax-core.github.io/
+
+
 #### 이 스크린샷들에는 다른 스킨도 적용되어 있습니다.
+
+### 시계 스킨 : https://www.deviantart.com/apexxx-sensei/art/Momento-698402825
+
+### 비주얼라이저 스킨 : https://jax-core.github.io/
