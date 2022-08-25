@@ -101,3 +101,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 ### 시계 스킨 : https://www.deviantart.com/apexxx-sensei/art/Momento-698402825
 
 ### 비주얼라이저 스킨 : https://jax-core.github.io/
+
+### <a href="https://www.deviantart.com/apexxx-sensei/art/Momento-698402825" target="_blank">Label</a>
+
+### <a href="https://jax-core.github.io/" target="_blank">Label</a>
