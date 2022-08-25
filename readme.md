@@ -38,7 +38,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ### 다운로드
-1. WallpaperChanger1.2.rmskin(1.2는 버전에 따라 바뀔수도 있습니다.)을 클릭하세요.
+1. WallpaperChanger20.rmskin(20은 버전에 따라 바뀔수도 있습니다.)을 클릭하세요.
 
 2. Download를 클릭하세요.
 
