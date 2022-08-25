@@ -36,7 +36,7 @@ It also changes the window color settings.
   height="50%"
 />
 
-### Dayscreenshot
+### Day screenshot
 
 <img
   src="WallpaperChanger\night.png"
@@ -44,7 +44,7 @@ It also changes the window color settings.
   height="50%"
 />
 
-### Nightscreenshot
+### Night screenshot
 
 --------------------------------------------------------------------
 
