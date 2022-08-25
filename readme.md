@@ -70,9 +70,9 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
   height="50%"
 />
 
-dayscreenshot
+####dayscreenshot
 
-낮 스크린샷
+#####낮 스크린샷
 
 <img
   src="WallpaperChanger\night.png"
@@ -80,9 +80,9 @@ dayscreenshot
   height="50%"
 />
 
-nightscreenshot
+####nightscreenshot
 
-밤 스크린샷
+#####밤 스크린샷
 
 
 ### These screenshots also have other skins.
