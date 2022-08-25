@@ -1,18 +1,18 @@
-## Information
+# Information
 This skin changes the desktop.
 
 It also changes the window color settings.
 
 --------------------------------------------------------------------
 
-## Download
+# Download
 1. Click WallpaperChanger20.rmskin(20 may change depending on version).
 
 2. Click Download.
 
 --------------------------------------------------------------------
 
-## Version
+# Version
 1.0 You can change wallpaper with this skin.
 
 1.1 Corrected typo in file name. You can change the window color mode with this skin.
@@ -27,7 +27,7 @@ It also changes the window color settings.
 
 --------------------------------------------------------------------
 
-## Screenshot
+# Screenshot
 <br>
 
 <img
@@ -56,12 +56,12 @@ Visualizer skin : https://jax-core.github.io/
 
 --------------------------------------------------------------------
 
-## Licence
+# Licence
 This skin follows Creative Commons Attribution-ShareAlike 4.0 International.
 
-For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)****
+For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <br>
 <br>
 
-### Enjoy my skin!
+## Enjoy my skin!
