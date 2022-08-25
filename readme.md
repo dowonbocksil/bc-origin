@@ -85,4 +85,4 @@ nightscreenshot
 
 ### These screenshots also have other skins.
 
-### 이 스크린샷들에는 다른 스킨도 적용되어 있습니다.
+#### 이 스크린샷들에는 다른 스킨도 적용되어 있습니다.
