@@ -1,14 +1,12 @@
-## Precautions
-This skin follows Creative Commons Attribution-ShareAlike 4.0 International.
+## Information
+This skin changes the desktop.
 
-For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
-
+It also changes the window color settings.
 
 ## Download
 1. Click WallpaperChanger20.rmskin(20 may change depending on version).
 
 2. Click Download.
-
 
 ## Version
 1.0 You can change wallpaper with this skin.
@@ -21,8 +19,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 2.0 Added download method. Modified version of rmskin.
 
-2.1 The readme file has been modified.
-
+2.1 The readme file has been modified.\
 
 ## Screenshot
 <br>
@@ -51,6 +48,11 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 Clock skin : https://www.deviantart.com/apexxx-sensei/art/Momento-698402825
 
 Visualizer skin : https://jax-core.github.io/
+
+## Licence
+This skin follows Creative Commons Attribution-ShareAlike 4.0 International.
+
+For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)****
 
 <br>
 <br>
