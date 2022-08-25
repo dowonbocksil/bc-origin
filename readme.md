@@ -64,6 +64,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 ------------------------------------------------------------------------------------
 # screenshot(스크린샷)
 
+
 <img
   src="WallpaperChanger\day.png"
   width="50%"
