@@ -20,6 +20,8 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 2.0 Added download method. Modified version of rmskin.
 
+2.1 The readme file has been modified.
+
 
 ## Enjoy my skin!
 
@@ -31,6 +33,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 이 스킨은 Creative Commons Attribution-ShareAlike 4.0 International을 따릅니다.
 
 더 많은 정보는 [여기서 확인하세요](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 ## 다운로드
 1. WallpaperChanger1.2.rmskin(1.2는 버전에 따라 바뀔수도 있습니다.)을 클릭하세요.
@@ -49,6 +52,8 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 2.0 다운로드 하는 방법을 추가했습니다. rmskin의 버전을 수정했습니다.
 
+2.1 readme 파일을 수정했습니다.
+
 
 ## 스킨 유용하게 사용해주세요!
 
@@ -58,8 +63,16 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
   height="50%"
 />
 
+dayscreenshot
+
 <img
   src="WallpaperChanger\night.png"
   width="50%"
   height="50%"
 />
+
+nightscreenshot
+
+
+These screenshot also have other skins.
+이 스크린샷들에는 다른 스킨도 적용되어 있습니다.
