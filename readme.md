@@ -1,5 +1,5 @@
 # Information
-This skin changes the desktop.
+This skin changes the wallpaper.
 
 It also changes the window color settings.
 
