@@ -63,6 +63,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ------------------------------------------------------------------------------------
 # screenshot(스크린샷)
+<br>
 
 <img
   src="WallpaperChanger\day.png"
@@ -90,8 +91,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 ### Clock skin : https://www.deviantart.com/apexxx-sensei/art/Momento-698402825
 
 ### Visualizer skin : https://jax-core.github.io/
-
-
+<br>
 #### 이 스크린샷들에는 다른 스킨도 적용되어 있습니다.
 
 ### 시계 스킨 : https://www.deviantart.com/apexxx-sensei/art/Momento-698402825
