@@ -1,3 +1,5 @@
+#English
+
 ## Precautions
 This skin follows Creative Commons Attribution-ShareAlike 4.0 International.
 
@@ -27,7 +29,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ------------------------------------------------------------------------------------
-
+# 한국어
 
 ## 주의사항
 이 스킨은 Creative Commons Attribution-ShareAlike 4.0 International을 따릅니다.
@@ -58,6 +60,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 ## 스킨 유용하게 사용해주세요!
 
 ------------------------------------------------------------------------------------
+# screenshot(스크린샷)
 
 <img
   src="WallpaperChanger\day.png"
