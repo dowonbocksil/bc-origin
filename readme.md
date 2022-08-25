@@ -84,8 +84,7 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 ### nightscreenshot
 
 ### 밤 스크린샷
-
-
+<br>
 ### These screenshots also have other skins.
 
 ### Clock skin : https://www.deviantart.com/apexxx-sensei/art/Momento-698402825
