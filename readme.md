@@ -57,6 +57,8 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## 스킨 유용하게 사용해주세요!
 
+------------------------------------------------------------------------------------
+
 <img
   src="WallpaperChanger\day.png"
   width="50%"
@@ -64,6 +66,8 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 />
 
 dayscreenshot
+
+낮 스크린샷
 
 <img
   src="WallpaperChanger\night.png"
@@ -73,6 +77,9 @@ dayscreenshot
 
 nightscreenshot
 
+밤 스크린샷
+
 
 These screenshot also have other skins.
+
 이 스크린샷들에는 다른 스킨도 적용되어 있습니다.
