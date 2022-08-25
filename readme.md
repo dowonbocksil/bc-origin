@@ -19,7 +19,7 @@ It also changes the window color settings.
 
 2.0 Added download method. Modified version of rmskin.
 
-2.1 The readme file has been modified.\
+2.1 The readme file has been modified.
 
 ## Screenshot
 <br>
@@ -40,8 +40,7 @@ It also changes the window color settings.
 
 ### Nightscreenshot
 
-<br>
-<br>
+------------------------------------------------------------------------------
 
 ### These screenshots also have other skins.
 
