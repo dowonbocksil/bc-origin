@@ -11,6 +11,8 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 
 1.2 The line change of the readme file has been modified.
 
+1.3 Added rmskin file.
+
 
 ## Enjoy my skin!
 
@@ -30,6 +32,8 @@ For more information, [go here](https://creativecommons.org/licenses/by-sa/4.0/)
 1.1 파일 이름의 오타를 수정했습니다. 윈도우 색 모드를 바꿀 수 있습니다.
 
 1.2 readme 파일의 줄바꿈을 수정했습니다.
+
+1.3 rmskin 파일을 추가했습니다.
 
 
 ## 스킨 유용하게 사용해주세요!
